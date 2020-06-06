@@ -5,6 +5,8 @@ import torch
 from torch import nn
 from torch.nn import Parameter
 
+from sklearn.manifold import TSNE
+
 from matplotlib import pyplot as plt
 
 
